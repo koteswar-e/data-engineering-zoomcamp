@@ -7,7 +7,7 @@ Docker and SQL
 
 When submitting your homework, you will also need to include
 a link to your GitHub repository or other public code-hosting
-site.
+site..
 
 This repository should contain the code for solving the homework. 
 
